@@ -11,7 +11,7 @@
 
 	<groupId>com.syriana</groupId>
 	<artifactId>base.common.core</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>base.common.core</name>
 	<description>BASE COMMON CORE</description>
 
